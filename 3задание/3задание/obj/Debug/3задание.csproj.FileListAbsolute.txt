@@ -1,0 +1,15 @@
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\bin\Debug\3задание.exe.config
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\bin\Debug\3задание.exe
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\bin\Debug\3задание.pdb
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание.csproj.AssemblyReference.cache
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\MainWindow.g.cs
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\App.g.cs
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание_MarkupCompile.cache
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание_MarkupCompile.lref
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\MainWindow.baml
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание.g.resources
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\_3задание.Properties.Resources.resources
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание.csproj.GenerateResource.cache
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание.csproj.CoreCompileInputs.cache
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание.exe
+C:\Kamilov_225_1\Практическая№2\3задание\3задание\obj\Debug\3задание.pdb
